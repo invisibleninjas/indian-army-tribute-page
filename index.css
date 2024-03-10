@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    border: 0px;
+    box-sizing: border-box;
+
+}
+body{
+    background-color:#dad7cd;
+}
+header{
+    margin:48px 0px 48px 0px;
+    text-shadow: 5px 5px 5px;
+}
+section{
+    margin: auto;
+    margin-bottom: 24px;
+}
+
+footer{
+    font-family: 'Times New Roman', Times, serif;
+}
+#main-img{
+    width: 650px;
+    height: 450px;
+    background-image: url('./armyimage.jpg');
+    background-color:#dad7cd;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: color-burn;
+    
+}
